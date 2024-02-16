@@ -1,3 +1,3 @@
 <?php
 
-echo "hola daw v4";
+if(true)echo "hola que tal";
