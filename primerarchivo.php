@@ -1,3 +1,5 @@
 <?php
 
-echo "hola daw v4";
+for ($i = 0; $i < 10; $i++) {
+    echo "Hola mundo" . PHP_EOL;
+}
